@@ -9,12 +9,31 @@
 
 ![1](pictures/example1.png)
 
-Full dependencies: 
+<details>
+All dependencies: 
 ```
-hyprland quickshell rofi alacritty swww thunar neofetch swappy grim zathura yazi jetbrains-mono-fonts mako hyprpicker neovim \
-ghostty  nautilus  btop bpytop obs-studio slurp xdg-desktop-portal-hyprland wl-clipboard git\
- jq lz4-devel lua python3 brightnessctl playerctl wpctl pipewire wireplumber Cartograph-CF
+ hyprland
+ waybar
+ swaync
+ swww
+ rofi
+ yazi
+ nvim
+ hyprshot
+ Adwaita Font
+ catnap
+ fastfetch
 ```
+
+Recommended:
+```
+ NVChad
+```
+ 
+</details>
+
+
+
 
 ## 📦 Programs
 
