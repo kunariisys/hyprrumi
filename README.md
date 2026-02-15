@@ -8,6 +8,10 @@
 
 ---
 
+## Installation
+> [!NOTE]
+> Make sure you have all the dependencies for this to work correctly!
+
 <details>
 <summary>Dependencies</summary>
  
@@ -33,12 +37,7 @@ Equibop
 ```
 </details>
 
----
 
-## Installation
-> [!NOTE]
-> Make sure you have all the dependencies for this to work correctly!
-> 
 
 ---
 
