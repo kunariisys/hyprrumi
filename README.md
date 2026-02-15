@@ -10,24 +10,25 @@
 ![1](pictures/example1.png)
 
 <details>
-All dependencies: 
-```
- hyprland
- waybar
- swaync
- swww
- rofi
- yazi
- nvim
- hyprshot
- Adwaita Font
- catnap
- fastfetch
-```
+<summary>Click to view All Dependencies</summary>
 
-Recommended:
+### Core Dependencies
+```text
+hyprland
+waybar
+swaync
+swww
+rofi
+yazi
+nvim
+hyprshot
+Adwaita Font
+catnap
+fastfetch
 ```
- NVChad
+### Recommended!
+```
+NVChad
 ```
  
 </details>
