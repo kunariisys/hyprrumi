@@ -9,6 +9,11 @@
 
 ![1](pictures/example1.png)
 
+<details>
+<summary>Legacy Versions</summary>
+ 
+</details>
+
 ---
 
 <details>
@@ -44,7 +49,7 @@ Equibop
 ## Installation
 
 > [!NOTE]
-> make sure you have all the dependencies for this to work correctly.
+> Make sure you have all the dependencies for this to work correctly!
 > 
 
 
