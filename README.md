@@ -9,8 +9,10 @@
 
 ![1](pictures/example1.png)
 
+---
+
 <details>
-<summary>Click to view All Dependencies</summary>
+<summary>Dependencies</summary>
 
 ### Basic Dependencies
 ```text
@@ -63,3 +65,28 @@ List of programs and tools I use.
 | Music Player 🎵   | [spotify](https://aur.archlinux.org/packages/spotify)      |
 | Visualiser 📊     | [cava](https://github.com/karlstav/cava)          |
 | Pomodoro 🍅       | [tomato-c](https://github.com/gabrielzschmitz/Tomato.C)      |
+
+---
+
+## Keybinds
+
+| Keys | Description |
+| :--- | :--- |
+| `$mainMod + T` | Open terminal (`$terminal`) |
+| `$mainMod + Q` | Kill active window |
+| `$mainMod + M` | Exit Hyprland / Shutdown menu |
+| `$mainMod + E` | Open file manager (`$fileManager`) |
+| `$mainMod + V` | Toggle floating mode |
+| `Super_L` (Tap) | Launch app menu (Rofi) |
+| `$mainMod + P` | Toggle pseudo layout |
+| `$mainMod + J` | Toggle split |
+| `$mainMod + Shift + S` | Screenshot |
+| `$mainMod + S` | Toggle Special Workspace (Spotify) |
+| `$mainMod + D` | Toggle Special Workspace (Discord) |
+| `$mainMod + Arrows` | Move focus (Left/Right/Up/Down) |
+| `$mainMod + [0–9]` | Switch to workspace |
+| `$mainMod + Shift + [0–9]` | Move window to workspace |
+| `$mainMod + Scroll` | Switch workspace |
+| `LMB / RMB + Drag` | Move or Resize window |
+
+
