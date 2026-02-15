@@ -31,6 +31,7 @@ Adwaita Font
 catnap
 fastfetch
 dolphin
+hyprlock
 ```
 ### Recommended
 ```
@@ -62,9 +63,8 @@ List of programs and tools I use.
 | Color Theme 🎨    | [pywal](https://github.com/dylanaraps/pywal) |
 | Lockscreen 🔒     | [hyprlock](https://github.com/hyprwm/hyprlock)  |
 | Login Menu 🚪     | [sddm](https://github.com/sddm/sddm)          |
-| Music Player 🎵   | [spotify](https://aur.archlinux.org/packages/spotify)      |
+| Music Player 🎵   | [spotify](https://aur.archlinux.org/packages/spotify) / [spicetify](https://spicetify.app/)      |
 | Visualiser 📊     | [cava](https://github.com/karlstav/cava)          |
-| Pomodoro 🍅       | [tomato-c](https://github.com/gabrielzschmitz/Tomato.C)      |
 
 ---
 
