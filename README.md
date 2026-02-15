@@ -3,22 +3,14 @@
 > check out [installation](#installation).
 >
 
-
 ## Gallery
-
-
 ![1](pictures/example1.png)
-
-<details>
-<summary>Legacy Versions</summary>
- 
-</details>
 
 ---
 
 <details>
 <summary>Dependencies</summary>
-
+ 
 ### Basic Dependencies
 ```text
 hyprland
@@ -38,25 +30,17 @@ dolphin
 ```
 NVChad
 Equibop
-
 ```
- 
 </details>
-
 
 ---
 
 ## Installation
-
 > [!NOTE]
 > Make sure you have all the dependencies for this to work correctly!
 > 
 
-
-
 ---
-
-
 
 ## 📦 Programs
 
