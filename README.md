@@ -2,16 +2,11 @@
 <div align="center">
 
 # ✦ hyprrumi ✦
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&pause=1000&color=C5C3C1&background=FFC1A4A4&center=true&vCenter=true&width=567&height=150&lines=hyprumi"><img>
 
 <p>
   <img src="https://img.shields.io/github/last-commit/xzepyx/nucleus-shell?style=for-the-badge&color=FFC1A4&logoColor=D9E0EE&labelColor=1E202B" alt="Last Commit" />
   <img src="https://img.shields.io/badge/shell-fish-FFC1A4?style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B" alt="Shell: fish" />
   <img src="https://img.shields.io/badge/wm-hyprland-FFC1A4?style=for-the-badge&logoColor=1E202B&labelColor=1E202B" alt="WM: Hyprland" />
-
-
-
-
 </p>
 
 </div>
@@ -30,7 +25,7 @@
 
 ---
 
-## Installation
+<h2 align="center"> Installation </h2>
 > [!NOTE]
 > Make sure you have all the dependencies for this to work correctly!
 
@@ -59,8 +54,6 @@ NVChad
 Equibop
 ```
 </details>
-
-
 
 ---
 
