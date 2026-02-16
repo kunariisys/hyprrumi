@@ -36,6 +36,7 @@
 ---
 
 <h2 align="center"> Installation </h2>
+
 > [!NOTE]
 > Make sure you have all the dependencies for this to work correctly!
 
