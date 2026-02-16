@@ -19,7 +19,7 @@
 
 ## 🚧 TODO
 
-- [ ] Add GTK theme config
+- [x] Add GTK theme config
 
 
 
