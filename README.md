@@ -23,7 +23,7 @@
 > check out [installation](#installation).
 >
 
-## Gallery
+<h2 align="center">✦ Gallery ✦ </h2>
 ![1](pictures/example1.png)
 
 ---
