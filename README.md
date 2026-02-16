@@ -15,11 +15,17 @@
 
 <h2 align="center"> Overview </h2>
 
-#### Todo:
-
 ## 🚧 TODO
 
-- [x] Add GTK theme config
+- [x] Hyprland Config
+- [x] Waybar Config (wip)
+- [x] Kitty Config
+- [x] Fastfetch Config
+- [x] Discord Theme
+- [ ] Lockscreen Config
+- [ ] Complete Rofi Config
+- [x] Finish Github Post (wip)
+- [ ] Remake Bar in Quickshell (eventually)
 
 
 
